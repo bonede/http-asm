@@ -16,6 +16,13 @@ $ make nasm # build NASM assembler version
 
 ```
 
+# How to run
+```console
+$ ./http # or ./http-nasm
+$ curl http://localhost:8080 # Test it!(In another shell)
+
+```
+
 # Refs
 
 * Call conventions https://wiki.osdev.org/Calling_Conventions
